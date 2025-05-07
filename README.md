@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anh Chien Vu and I'm a Fresh Computer Programming and Analysis graduate from the Seneca Polytechnic with a passion for building full-stack applications.</h2>
+# 💫 About Me:
+👋 Hi, I'm Anh Chien Vu!<br>🎓 Fresh Computer Science graduate from the Seneca Polytechnic with a passion for building full-stack applications.<br><br>💻 Tech Stack:<br><br>MERN (MongoDB, Express, React, Node.js)<br><br>PERN (PostgreSQL, Express, React, Node.js)<br><br>Currently diving into AI/ML to expand my skillset 🤖<br><br>🔭 I’m actively working on personal projects to sharpen my skills and contribute to open source.<br><br>🌱 Learning:  Python for AI, and system design best practices.<br><br>🚀 Looking for opportunities! Passionate about solving real-world problems with clean, efficient code. Let’s connect and build something amazing!
 
 ###
 
@@ -84,5 +85,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhChienVu/AnhChienVu/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnhChienVu/AnhChienVu/output/github-snake.svg" />
 </picture>
+
+###
+
+### ✍️ My Fav Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
